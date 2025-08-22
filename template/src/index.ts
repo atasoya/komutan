@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import { program } from "./program/program";
 import "./program/metadata";
-import "./program/commands/helloworld";
+import "./program/commands";
 
 try {
     program.parse();
