@@ -1,6 +1,6 @@
 {
   "name": "komutan",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A CLI tool for creating and managing CommanderJS CLI tools inspired by cobra-cli",
   "main": "src/index.ts",
   "bin": {
