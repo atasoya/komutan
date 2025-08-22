@@ -1,10 +1,10 @@
 {
-  "name": "commando",
+  "name": "komutan",
   "version": "1.0.0",
-  "description": "",
+  "description": "A CLI tool for creating and managing CommanderJS CLI tools inspired by cobra-cli",
   "main": "src/index.ts",
   "bin": {
-    "commando": "./dist/index.js"
+    "komutan": "./dist/index.js"
   },
   "scripts": {
     "build": "tsc",
@@ -14,7 +14,7 @@
     "format": "prettier --write ."
   },
   "keywords": [],
-  "author": "",
+  "author": "Ata Atasoy",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^24.3.0",
