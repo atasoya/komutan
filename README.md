@@ -65,7 +65,7 @@ komutan init <name>
 └── .gitignore
 ```
 
-#### Add new commandæ
+#### Add new commands
 
 Adds new command by creating name.ts and adding import to the index.ts
 
